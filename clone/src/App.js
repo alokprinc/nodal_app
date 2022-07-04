@@ -3,8 +3,6 @@ import "./App.css";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import Login from "./components/Login";
-import { provider } from "react-redux";
-// import store from "./store";
 
 function App() {
   return (
